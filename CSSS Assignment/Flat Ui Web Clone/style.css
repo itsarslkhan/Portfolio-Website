@@ -1,0 +1,118 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+@media only screen and (max-width: 320px) {
+  .heading > h1 {
+    display: flex;
+    justify-content: center;
+
+  }
+  .heading .span {
+    display: none;
+  }
+  .span > h3 {
+    display: none;
+  }
+  .main-container .div-main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}
+.main-container {
+  height: 100vh;
+  width: 100vw;
+  background-color: #3c40c6;
+  overflow: scroll;
+}
+.heading {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.heading,
+h1,
+h3,
+.h3 {
+  color: #fff;
+  cursor: pointer;
+}
+h3 > span {
+  color: #fff;
+  background-color: red;
+  border: 1px solid red;
+  border-radius: 3px;
+  padding: 1px;
+}
+.heading > .h3 {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+}
+.span:hover {
+  text-decoration: underline;
+}
+.h3 > h3:hover {
+  text-decoration: underline;
+}
+.div-main {
+  margin-top: 5px;
+  display: block;
+  flex-direction: row;
+  gap: 50px;
+  cursor: pointer;
+}
+.Aussie {
+  border-radius: 5px;
+  height: 260px;
+  width: 350px;
+  background-color: white;
+  box-shadow: 0px 0px 1px 1px white;
+}
+.image {
+  padding: 10px;
+}
+.image > img {
+  width: 330px;
+  height: 190px;
+}
+.image .text {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.image .text > p {
+  display: flex;
+  font-weight: 600;
+}
+.image .text > #p2 {
+  font-size: larger;
+  font-weight: 800;
+}
+.div1 {
+  margin-left: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  width: 100%;
+  gap: 50px;
+}
+.div2 {
+  margin-left: 10px;
+  margin-top: 50px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  gap: 50px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}

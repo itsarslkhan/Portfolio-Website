@@ -1,0 +1,154 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  box-sizing: border-box;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.main-container {
+  height: 100vh;
+  width: 100vw;
+  background-color: white;
+  overflow: scroll;
+  p {
+    font-weight: 700;
+    color: white;
+    display: flex;
+    line-height: 230px;
+    justify-content: flex-end;
+  }
+}
+.heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 10px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+.heading > button {
+  background-color: black;
+  border: 1px solid black;
+  font-weight: 700;
+  cursor: pointer;
+  color: #fff;
+  padding: 10px;
+  border-radius: 3px;
+}
+.heading > h4 {
+  cursor: pointer;
+}
+.main-color {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.box {
+  display: flex;
+  flex-direction: row;
+}
+
+.color1 {
+  background-color: #fad390;
+  width: 250px;
+  height: 150px;
+}
+.color2 {
+  background-color: #f8c291;
+  width: 250px;
+  height: 150px;
+}
+.color3 {
+  background-color: #6a89cc;
+  width: 250px;
+  height: 150px;
+}
+.color4 {
+  background-color: #82ccdd;
+  width: 250px;
+  height: 150px;
+}
+.color5 {
+  background-color: #b8e994;
+  width: 250px;
+  height: 150px;
+}
+.color6 {
+  background-color: #f6b93b;
+  width: 250px;
+  height: 150px;
+}
+.color7 {
+  background-color: #e55039;
+  width: 250px;
+  height: 150px;
+}
+.color8 {
+  background-color: #4a69bd;
+  width: 250px;
+  height: 150px;
+}
+.color9 {
+  background-color: #60a3bc;
+  width: 250px;
+  height: 150px;
+}
+.color10 {
+  background-color: #78e08f;
+  width: 250px;
+  height: 150px;
+}
+.color11 {
+  background-color: #fa983a;
+  width: 250px;
+  height: 150px;
+}
+.color12 {
+  background-color: #eb2f06;
+  width: 250px;
+  height: 150px;
+}
+.color13 {
+  background-color: #1e3799;
+  width: 250px;
+  height: 150px;
+}
+.color14 {
+  background-color: #3c6382;
+  width: 250px;
+  height: 150px;
+}
+.color15 {
+  background-color: #38ada9;
+  width: 250px;
+  height: 150px;
+}
+.color16 {
+  background-color: #e58e26;
+  width: 250px;
+  height: 150px;
+}
+.color17 {
+  background-color: #b71540;
+  width: 250px;
+  height: 150px;
+}
+.color18 {
+  background-color: #0c2461;
+  width: 250px;
+  height: 150px;
+}
+.color19 {
+  background-color: #0a3d62;
+  width: 250px;
+  height: 150px;
+}
+.color20 {
+  background-color: #079992;
+  width: 250px;
+  height: 150px;
+}

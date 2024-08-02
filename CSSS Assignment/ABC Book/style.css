@@ -1,0 +1,91 @@
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap");
+body {
+  background-color: skyblue;
+}
+.heading {
+  background-color: #04aa6d;
+  text-align: center;
+  color: white;
+  font-size: xx-large;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-weight: bolder;
+  padding: 20px;
+  text-shadow: 10px 10px 10px 10px blue;
+}
+.atoz {
+  line-height: 80px;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-weight: bolder;
+  font-style: normal;
+  display: inline;
+  font-size: xx-large;
+  letter-spacing: 2px;
+}
+
+.img {
+  line-height: 10em;
+  display: block;
+  margin-left: 10em;
+  margin-right: 10em;
+  width: 50%;
+}
+.p {
+  line-height: 10em;
+  display: inline;
+  text-shadow: 2px 2px 5px white;
+}
+.ABC {
+  box-shadow: 5px 0px 10px 10px olivedrab;
+  text-align: center;
+  background-color: #04aa6d;
+  display: inline-block;
+  line-height: 30px;
+  height: 400px;
+  width: 40em;
+  border-radius: 10px;
+  justify-content: center;
+}
+.a {
+  background-color: #04aa6d;
+  border-radius: 50px;
+  display: inline;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-weight: 700;
+  font-size: xx-large;
+  font-style: normal;
+  text-decoration: none;
+  color: white;
+  position: fixed;
+  bottom: 190px;
+  padding: 30px;
+  border-radius: 500px;
+}
+.center {
+  padding: 0px;
+  margin: 0px;
+}
+#a:hover {
+  background-color: red;
+}
+#a:focus {
+  background-color: olivedrab;
+}
+.table {
+  word-spacing: 2px;
+  line-height: 60px;
+}
+a {
+  padding: 10px;
+  background-color: #04aa6d;
+  text-decoration: none;
+  font-size: xx-large;
+  color: white;
+}
+a:hover {
+  background-color: red;
+}
+a:focus {
+  background-color: olivedrab;
+}

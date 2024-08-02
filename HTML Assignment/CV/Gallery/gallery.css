@@ -1,0 +1,28 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #fbeaeb;
+  font-size: large;
+}
+h1,
+h2 {
+  display: inline;
+}
+a {
+  text-decoration: none;
+  color: green;
+  cursor: pointer;
+  display: inline;
+  font-weight: bolder;
+}
+a:hover {
+  color: red;
+  text-decoration: underline;
+  display: inline;
+}
+#goto {
+  font-size: larger;
+}
+div.top {
+  text-align: center;
+  background-color: yellow;
+}

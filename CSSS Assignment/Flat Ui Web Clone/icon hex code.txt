@@ -1,0 +1,108 @@
+Icon Hex Code
+
+&#x1F50A;    Sound Icon
+&larr;       Back Arrow Icon 
+&#x25BC;     Down Triange Icon
+
+
+
+.color1 {
+  background-color:         ;
+  width: 250px;
+  height: 150px;
+}
+.color2 {
+  background-color:         ;
+  width: 250px;
+  height: 150px;
+}
+.color3 {
+  background-color: #ff7979;
+  width: 250px;
+  height: 150px;
+}
+.color4 {
+  background-color:         ;
+  width: 250px;
+  height: 150px;
+}
+.color5 {
+  background-color:         ;
+  width: 250px;
+  height: 150px;
+}
+.color6 {
+  background-color:         ;
+  width: 250px;
+  height: 150px;
+}
+.color7 {
+  background-color:         ;
+  width: 250px;
+  height: 150px;
+}
+.color8 {
+  background-color:         ;
+  width: 250px;
+  height: 150px;
+}
+.color9 {
+  background-color:         ;
+  width: 250px;
+  height: 150px;
+}
+.color10 {
+  background-color:         ;
+  width: 250px;
+  height: 150px;
+}
+.color11 {
+  background-color:         ;
+  width: 250px;
+  height: 150px;
+}
+.color12 {
+  background-color:         ;
+  width: 250px;
+  height: 150px;
+}
+.color13 {
+  background-color:         ;
+  width: 250px;
+  height: 150px;
+}
+.color14 {
+  background-color:         ;
+  width: 250px;
+  height: 150px;
+}
+.color15 {
+  background-color:         ;
+  width: 250px;
+  height: 150px;
+}
+.color16 {
+  background-color:         ;
+  width: 250px;
+  height: 150px;
+}
+.color17 {
+  background-color:         ;
+  width: 250px;
+  height: 150px;
+}
+.color18 {
+  background-color:         ;
+  width: 250px;
+  height: 150px;
+}
+.color19 {
+  background-color:         ;
+  width: 250px;
+  height: 150px;
+}
+.color20 {
+  background-color:         ;
+  width: 250px;
+  height: 150px;
+}
